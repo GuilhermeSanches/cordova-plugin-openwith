@@ -1,10 +1,10 @@
-# cordova-plugin-openwith
+# cordova-plugin-openwith-facily
 
 > This plugin for [Apache Cordova](https://cordova.apache.org/) registers your app to handle certain types of files.
 
 ## Overview
 
-This is a bit modified version of [cordova-plugin-openwith](https://github.com/j3k0/cordova-plugin-openwith) by Jean-Christophe Hoelt for iOS.
+This is a bit modified version of [cordova-plugin-openwith-facily](https://github.com/j3k0/cordova-plugin-openwith-facily) by Jean-Christophe Hoelt for iOS.
 
 #### What's different:
 
@@ -41,7 +41,7 @@ On the Cordova App side, the plugin checks listens for app start or resume event
 Here's the promised one liner:
 
 ```
-cordova plugin add cordova-plugin-openwith \
+cordova plugin add cordova-plugin-openwith-facily \
   --variable IOS_URL_SCHEME=cordovaopenwithdemo
 ```
 

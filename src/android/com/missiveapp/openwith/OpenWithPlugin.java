@@ -1,4 +1,4 @@
-package com.missiveapp.openwith;
+package com.guilhermesanchesapp.openwith;
 
 import android.content.ContentResolver;
 import android.content.Intent;
